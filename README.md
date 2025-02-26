@@ -17,11 +17,11 @@
 ## Logistic Regression Model Results
 
 * Healthy loans (0):
-** Precision = 100%
-** Recall = 99%
+  * Precision = 100%
+  * Recall = 99%
 * High-risk loans (1) 
-** Precision = 84%
-** Recall = 94%
+  * Precision = 84%
+  * Recall = 94%
 * machine learning model accuracy = 99%
  
 ## Summary
